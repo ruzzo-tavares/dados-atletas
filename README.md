@@ -1,4 +1,4 @@
-**Notas de Atletas  — Desafio de Certificação **
+**Notas de Atletas  — Desafio de Certificação**
 
 **Sobre o projeto**
 
